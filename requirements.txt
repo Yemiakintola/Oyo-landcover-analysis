@@ -1,0 +1,6 @@
+ee: "earthengine-api"
+geemap: "geemap"
+rasterio: "rasterio"
+scipy: "scipy" 
+pydeck: "pydeck" 
+ipywidgets: "ipywidgets"
